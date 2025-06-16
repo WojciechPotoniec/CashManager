@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="JavaScriptLibraryMappings">
-    <file url="PROJECT" libraries="{buttons.dataTables, buttons.html5, dataTables, dataTables.buttons, dataTables.dataTables, dataTables.responsive, font-awesome, jquery-3.7.1, jszip, responsive.dataTables}" />
-    <includedPredefinedLibrary name="HTTP Pre-Request and Response Handler" />
-  </component>
-</project>
