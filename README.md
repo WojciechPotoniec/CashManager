@@ -56,9 +56,6 @@ Make sure you have the following installed:
 
 - [PHP 7.4+](https://www.php.net/)
 - [MySQL 5.7+](https://www.mysql.com/)
-- [Node.js](https://nodejs.org/)
-- [Composer](https://getcomposer.org/)
-- [npm](https://www.npmjs.com/)
 
 ### Installation
 
@@ -69,41 +66,9 @@ git clone https://github.com/your-username/cashmanager.git
 cd cashmanager
 ```
 
-2. **Install PHP dependencies**
-
-```bash
-composer install
-```
-
-3. **Install JavaScript dependencies**
-
-```bash
-npm install
-```
-
-4. **Set up environment variables**
-
-Copy `.env.example` to `.env` and configure database credentials:
-
-```bash
-cp .env.example .env
-```
-
-5. **Run migrations (if applicable)**
-
-```bash
-php artisan migrate
-```
-
-6. **Start the development server**
-
-```bash
-php -S localhost:8000 -t public
-```
-
 ### Usage
 
-Once installed, navigate to `http://localhost:8000` in your browser. You will be able to:
+Once installed, navigate to `your/path` in your browser. You will be able to:
 
 - Add, edit, and delete transactions
 - View real-time balance updates
