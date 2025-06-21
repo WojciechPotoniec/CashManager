@@ -1,0 +1,10 @@
+@media (max-width: 767px) {
+
+    div.dt-container div.dt-layout-row:not(.dt-layout-table) {
+        display: flex !important;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+        gap: 1rem;
+    }
+}
