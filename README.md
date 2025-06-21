@@ -23,7 +23,6 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Testing](#testing)
 
 ---
 
@@ -110,20 +109,6 @@ Once installed, navigate to `http://localhost:8000` in your browser. You will be
 - View real-time balance updates
 - Manage categories and subtotals via modal interfaces
 - Export transaction data if enabled
-
-### Testing
-
-To run automated tests:
-
-```bash
-php artisan test
-```
-
-Or for JavaScript tests (if applicable):
-
-```bash
-npm run test
-```
 
 ---
 
